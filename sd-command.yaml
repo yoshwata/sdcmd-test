@@ -1,0 +1,17 @@
+
+# CommandのNamespace
+namespace: yoshwata
+# Command名
+name: sum
+# バージョン
+version: '0.1'
+# Commandの詳細
+description: echo arg1 + arg2
+# 管理者
+maintainer: screwdriver-dev@ml.yahoo-corp.jp
+# Commandのフォーマット（binaryまたはhabitat)
+format: binary
+
+# 登録するCommandのパス
+binary:
+  file: ./sum.sh

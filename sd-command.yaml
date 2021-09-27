@@ -8,7 +8,7 @@ version: '3.0'
 # Commandの詳細
 description: echo arg1 + arg2
 # 管理者
-maintainer: screwdriver-dev@ml.yahoo-corp.jp
+maintainer: yoshwata@foo.jp
 # Commandのフォーマット（binaryまたはhabitat)
 format: binary
 

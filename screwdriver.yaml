@@ -6,4 +6,3 @@ jobs:
     requires: [~pr, ~commit]
     steps:
       - publish: sd-cmd publish -f ./sd-command.yaml
-    blockedBy: [~test, ~promote]

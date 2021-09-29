@@ -4,7 +4,7 @@ namespace: yoshwata
 # Command名
 name: sum
 # バージョン
-version: '5.0'
+version: '4.0'
 # Commandの詳細
 description: echo arg1 + arg2
 # 管理者
